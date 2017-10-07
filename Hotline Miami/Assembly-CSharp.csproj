@@ -46,9 +46,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\NewBehaviourScript.cs" />
      <Compile Include="Assets\Scripts\AIController.cs" />
+     <Compile Include="Assets\Scripts\BulletController.cs" />
+     <Compile Include="Assets\Scripts\CamraFollow.cs" />
+     <Compile Include="Assets\Scripts\GunController.cs" />
      <Compile Include="Assets\Scripts\HumanContller.cs" />
      <Compile Include="Assets\Scripts\PlyerController.cs" />
+     <Compile Include="Assets\Scripts\WeaponController.cs" />
      <None Include="Assets\Fonts\friday13\Font License.txt" />
      <None Include="Assets\Fonts\d3digitalism\Read Me.txt" />
      <None Include="Assets\Fonts\shoguns_clan\README.txt" />
